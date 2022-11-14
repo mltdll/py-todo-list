@@ -1,3 +1,7 @@
 .content {
     padding-top: 20px;
+    background-color: white;
+    min-height: 100vh;
+    border: lightgray solid;
+    border-width: 0 1px;
 }
